@@ -1,6 +1,6 @@
 🚀 Desarrollador Full Stack | Android & Web | SEO & UX Specialist
 Ingeniero informático con experiencia en desarrollo de aplicaciones Android (Jetpack Compose, Kotlin, MVVM, corutinas, StateFlow, Firebase) y en creación de webs optimizadas para SEO y rendimiento.
-Apasionado por el diseño de interfaces intuitivas (UI/UX) y por la integración de tecnologías como IA, Health Connect, y APIs para crear soluciones inteligentes y escalables.
+Apasionado por el diseño de interfaces intuitivas (UI/UX) y por la integración de tecnologías con IA y APIs para crear soluciones inteligentes y escalables.
 
 💻 Tech stack:
 
