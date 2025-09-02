@@ -4,12 +4,12 @@ Apasionado por el diseño de interfaces intuitivas (UI/UX) y por la integración
 
 💻 Tech stack:
 
-Frontend: Compose, React, Tailwind, WordPress, Divi
+Frontend: Compose, React, JavaScript, Html, CSS, Tailwind, WordPress, Divi.
 
-Backend: Kotlin, PHP, Spring Boot, Firebase, APIs REST
+Backend: Kotlin, PHP, Spring Boot, Firebase, APIs REST.
 
-Bases de datos: MySQL, Firestore
+Bases de datos: MySQL, Firestore.
 
-Otros: Automatización, SEO técnico, SEM, optimización de CMS (WordPress, Prestashop)
+Otros: Automatización, SEO técnico, SEM, optimización de CMS (WordPress, Prestashop).
 
 🎯 Actualmente explorando automatización con drones.
