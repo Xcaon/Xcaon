@@ -1,16 +1,15 @@
-## Hi there 👋
+🚀 Desarrollador Full Stack | Android & Web | SEO & UX Specialist
+Ingeniero informático con experiencia en desarrollo de aplicaciones Android (Jetpack Compose, Kotlin, MVVM, corutinas, StateFlow, Firebase) y en creación de webs optimizadas para SEO y rendimiento.
+Apasionado por el diseño de interfaces intuitivas (UI/UX) y por la integración de tecnologías como IA, Health Connect, y APIs para crear soluciones inteligentes y escalables.
 
-<!--
-**Xcaon/Xcaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech stack:
 
-Here are some ideas to get you started:
+Frontend: Compose, React, Tailwind, WordPress, Divi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Kotlin, PHP, Spring Boot, Firebase, APIs REST
+
+Bases de datos: MySQL, Firestore
+
+Otros: Automatización, SEO técnico, SEM, optimización de CMS (WordPress, Prestashop)
+
+🎯 Actualmente explorando automatización con drones.
