@@ -92,7 +92,6 @@
 <br> 
 
 
-<br>
 
 # Drones
 
