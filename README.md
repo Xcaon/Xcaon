@@ -12,14 +12,14 @@
 
 
 
-## Working Non-Stop
+## Working
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
-- 📋 Languages and knowledge:
+- 📋 Lenguajes de programación:
     
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,12 +34,13 @@
     ![REST API](https://img.shields.io/badge/REST_API-%23007ACC.svg?style=for-the-badge&logo=apirest&logoColor=white)
     ![Gradle](https://img.shields.io/badge/Gradle-%238B007B.svg?style=for-the-badge&logo=gradle&logoColor=white)
 
-
-    
+  
 - ☁️ Cloud:
 
     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
     
 - ♾️ DevOps:
 
@@ -48,12 +49,6 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-- IA
-  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300C896.svg?style=for-the-badge&logo=openai&logoColor=white)
     
 - 💾 Databases:
   
@@ -61,23 +56,19 @@
     ![SQLite](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
-- 🎛️ Operating System:
+- 🎛️ Sistemas operativos:
 
-    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-    ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     
 - 💻 IDEs/Editors:
 
-  ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%239970B8.svg?style=for-the-badge&logo=sublimetext&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
     
-- 🥅 Others:
+- 🥅 Otros:
 
     ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -96,7 +87,7 @@
 
 # Drones
 
-As a hobby, I enjoy exploring automation with drones.
+Como hobby, disfruto explorando la automatización con drones.
 
 ![Drone April Fools](https://media.giphy.com/media/xUA7bcuTndaPQ6jtew/giphy.gif)
 
