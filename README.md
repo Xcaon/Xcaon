@@ -1,14 +1,15 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Fernando Hanlon </h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Fernando Hanlon</h1>
 
-<h3 align="center">Computer Engineer | Digital Marketing </h3>
+<h3 align="center">Ingeniero Informático | Marketing Digital</h3>
 
-# 💫 About Me:
-🚀 Journeying Through: Currently diving deep into Android development, Jetpack Compose, and modern mobile architectures.<br>
-🌐 Team Ups: Open to collaboration! Mobile apps, web apps, or full-stack projects – let's explore both universes.<br>
-📘 Current Quest: Mastering Kotlin, StateFlow, and Firebase while exploring AI-driven recommendations and Android best practices.<br>
-🔍 My Specialty: Bridging the gap between clean UI/UX design and robust backend logic. Curious about the blend? Let's chat!<br>
-💼 Also Skilled In: SEO, SEM, and Digital Marketing – helping projects grow and reach their audience effectively.
+# 💫 Sobre mí:
+🚀 En mi camino: Actualmente profundizando en desarrollo Android, Jetpack Compose y arquitecturas móviles modernas.<br>
+🌐 Colaboraciones: ¡Abierto a trabajar en equipo! Apps móviles, aplicaciones web o proyectos full-stack: exploremos ambos mundos.<br>
+📘 Mi misión actual: Dominar Kotlin, StateFlow y Firebase mientras experimento con recomendaciones impulsadas por IA y buenas prácticas de Android.<br>
+🔍 Mi especialidad: Unir el diseño limpio de UI/UX con una lógica backend sólida.<br>
+💼 También tengo experiencia en: SEO, SEM y Marketing Digital, ayudando a que los proyectos crezcan y lleguen a su audiencia de forma efectiva.
+
 
 
 ## Working Non-Stop
