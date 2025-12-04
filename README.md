@@ -5,11 +5,7 @@
 
 # 💫 Sobre mí:
 🚀 En mi camino: Actualmente profundizando en desarrollo Android, Jetpack Compose y arquitecturas móviles modernas.<br>
-🌐 Colaboraciones: ¡Abierto a trabajar en equipo! Apps móviles, aplicaciones web o proyectos full-stack: exploremos ambos mundos.<br>
-📘 Mi misión actual: Dominar Kotlin, StateFlow y Firebase mientras experimento con recomendaciones impulsadas por IA y buenas prácticas de Android.<br>
-🔍 Mi especialidad: Unir el diseño limpio de UI/UX con una lógica backend sólida.<br>
 💼 También tengo experiencia en: SEO, SEM y Marketing Digital, ayudando a que los proyectos crezcan y lleguen a su audiencia de forma efectiva.
-
 
 
 ## Working
